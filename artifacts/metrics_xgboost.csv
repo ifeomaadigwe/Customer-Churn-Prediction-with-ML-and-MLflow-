@@ -1,0 +1,2 @@
+,accuracy,precision,recall,f1
+XGBoost,0.98,0.9166666666666666,1.0,0.9565217391304348

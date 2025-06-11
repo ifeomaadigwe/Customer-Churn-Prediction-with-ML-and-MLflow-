@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1749663405574
+current_stage: None
+description: null
+last_updated_timestamp: 1749663405574
+name: churn_xgboost
+run_id: ca9eec87fd1a4857ba56696070aa4db5
+run_link: null
+source: file:///C:/Users/IfeomaAugustaAdigwe/Desktop/Customer_Churn_Prediction_and_Model/artifacts/mlruns/326562089146078346/ca9eec87fd1a4857ba56696070aa4db5/artifacts/XGBoost
+status: READY
+status_message: null
+storage_location: file:///C:/Users/IfeomaAugustaAdigwe/Desktop/Customer_Churn_Prediction_and_Model/artifacts/mlruns/326562089146078346/ca9eec87fd1a4857ba56696070aa4db5/artifacts/XGBoost
+user_id: null
+version: 1

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1749663400687
+current_stage: None
+description: null
+last_updated_timestamp: 1749663400687
+name: churn_logisticregression
+run_id: df4c49419ab04b379da3dcdbd672e706
+run_link: null
+source: file:///C:/Users/IfeomaAugustaAdigwe/Desktop/Customer_Churn_Prediction_and_Model/artifacts/mlruns/326562089146078346/df4c49419ab04b379da3dcdbd672e706/artifacts/LogisticRegression
+status: READY
+status_message: null
+storage_location: file:///C:/Users/IfeomaAugustaAdigwe/Desktop/Customer_Churn_Prediction_and_Model/artifacts/mlruns/326562089146078346/df4c49419ab04b379da3dcdbd672e706/artifacts/LogisticRegression
+user_id: null
+version: 1

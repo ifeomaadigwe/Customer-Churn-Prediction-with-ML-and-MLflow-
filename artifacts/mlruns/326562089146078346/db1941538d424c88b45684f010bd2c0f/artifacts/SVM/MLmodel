@@ -1,0 +1,35 @@
+artifact_path: SVM
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.10
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+is_signature_from_type_hint: false
+mlflow_version: 2.22.1
+model_size_bytes: 5234
+model_uuid: ae0986c14ffb4c9cb5392cda4d6e390f
+prompts: null
+run_id: db1941538d424c88b45684f010bd2c0f
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "long", "name": "tenure", "required": true}, {"type": "double",
+    "name": "monthly_charges", "required": true}, {"type": "long", "name": "support_calls",
+    "required": true}, {"type": "long", "name": "has_contract", "required": true},
+    {"type": "string", "name": "payment_method", "required": true}]'
+  outputs: '[{"type": "long", "required": true}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-06-11 17:36:45.802591'

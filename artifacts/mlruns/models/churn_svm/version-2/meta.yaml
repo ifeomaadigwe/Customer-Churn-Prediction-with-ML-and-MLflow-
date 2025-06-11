@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1749664452913
+current_stage: None
+description: null
+last_updated_timestamp: 1749664452913
+name: churn_svm
+run_id: 6ada80426b0d42e29207207d6cfc53e2
+run_link: null
+source: file:///C:/Users/IfeomaAugustaAdigwe/Desktop/Customer_Churn_Prediction_and_Model/artifacts/mlruns/326562089146078346/6ada80426b0d42e29207207d6cfc53e2/artifacts/SVM
+status: READY
+status_message: null
+storage_location: file:///C:/Users/IfeomaAugustaAdigwe/Desktop/Customer_Churn_Prediction_and_Model/artifacts/mlruns/326562089146078346/6ada80426b0d42e29207207d6cfc53e2/artifacts/SVM
+user_id: null
+version: 2

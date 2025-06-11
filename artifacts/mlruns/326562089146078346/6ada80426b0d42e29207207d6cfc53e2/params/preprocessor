@@ -1,0 +1,3 @@
+ColumnTransformer(transformers=[('num', StandardScaler(),
+                                 ['tenure', 'monthly_charges',
+                                  'support_calls'])])

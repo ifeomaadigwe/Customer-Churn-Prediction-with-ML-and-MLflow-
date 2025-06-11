@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/IfeomaAugustaAdigwe/Desktop/Customer_Churn_Prediction_and_Model/artifacts/mlruns/326562089146078346/db1941538d424c88b45684f010bd2c0f/artifacts
+end_time: 1749663410357
+entry_point_name: ''
+experiment_id: '326562089146078346'
+lifecycle_stage: active
+run_id: db1941538d424c88b45684f010bd2c0f
+run_name: Predict_SVM
+run_uuid: db1941538d424c88b45684f010bd2c0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749663405720
+status: 3
+tags: []
+user_id: IfeomaAugustaAdigwe

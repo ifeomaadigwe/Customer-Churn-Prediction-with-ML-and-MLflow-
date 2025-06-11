@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/IfeomaAugustaAdigwe/Desktop/Customer_Churn_Prediction_and_Model/artifacts/mlruns/326562089146078346/51cad781f3ac4879b6ecffda67b143b4/artifacts
+end_time: 1749664448301
+entry_point_name: ''
+experiment_id: '326562089146078346'
+lifecycle_stage: active
+run_id: 51cad781f3ac4879b6ecffda67b143b4
+run_name: Predict_XGBoost
+run_uuid: 51cad781f3ac4879b6ecffda67b143b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749664443401
+status: 3
+tags: []
+user_id: IfeomaAugustaAdigwe
